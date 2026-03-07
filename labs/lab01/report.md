@@ -1,7 +1,9 @@
+---
 article:
   title: "The Whisper of Forgotten Machines"
   author: "A. Nonymous"
   published: false
+...
 
 
 # Цель работы

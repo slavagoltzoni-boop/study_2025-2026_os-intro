@@ -1,4 +1,4 @@
-
+---
 title: "Лабораторная работа №1"
 subtitle: "Установка и настройка операционной системы Linux"
 author: "vsgoljcov"
@@ -9,6 +9,7 @@ toc-depth: 2
 numbersections: true
 fontsize: 12pt
 geometry: margin=2cm
+---
 
 # Цель работы
 

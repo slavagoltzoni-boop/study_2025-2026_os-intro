@@ -99,11 +99,6 @@ pandoc --version | head -n 1
 pandoc-crossref --version | head -n 1
 https://images/pandoc-versions.png
 
-Создан тестовый PDF-файл:
-
-bash
-echo -e "# Тест\n\nПривет, мир!" > test.md
-pandoc test.md --pdf-engine=xelatex -o test.pdf
 Анализ загрузки системы (команда dmesg)
 Для получения информации о системе использована команда dmesg. Результаты представлены ниже.
 
@@ -111,8 +106,6 @@ pandoc test.md --pdf-engine=xelatex -o test.pdf
 
 bash
 dmesg | grep -i "linux version"
-Результат вставлен на скриншоте.
-
 Частота процессора:
 
 bash

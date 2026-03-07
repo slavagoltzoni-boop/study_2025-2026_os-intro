@@ -1,19 +1,7 @@
----
-title: "Лабораторная работа №1"
-subtitle: "Установка и настройка операционной системы Linux"
-author: "Гольцев В. С."
-date: "2026-05-15"
-lang: ru
-toc: true
-toc-depth: 3
-numbersections: true
-fontsize: 12pt
-fontfamily: times
-geometry:
-  margin: 2cm
-  papersize: a4
-  landscape: false
-...
+article:
+  title: "The Whisper of Forgotten Machines"
+  author: "A. Nonymous"
+  published: false
 
 
 # Цель работы

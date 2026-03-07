@@ -1,5 +1,3 @@
-text
-
 ---
 title: "Лабораторная работа №1"
 subtitle: "Установка и настройка операционной системы Linux"
@@ -12,6 +10,7 @@ numbersections: true
 fontsize: 12pt
 geometry: margin=2cm
 ...
+
 
 # Цель работы
 

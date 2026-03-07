@@ -9,7 +9,7 @@ toc-depth: 2
 numbersections: true
 fontsize: 12pt
 geometry: margin=2cm
----
+...
 
 
 # Цель работы

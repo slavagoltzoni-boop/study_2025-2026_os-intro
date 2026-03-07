@@ -1,14 +1,18 @@
 ---
 title: "Лабораторная работа №1"
 subtitle: "Установка и настройка операционной системы Linux"
-author: "vsgoljcov"
-date: "2026"
-lang: ru-RU
+author: "Гольцев В. С."
+date: "2026-05-15"
+lang: ru
 toc: true
-toc-depth: 2
+toc-depth: 3
 numbersections: true
 fontsize: 12pt
-geometry: margin=2cm
+fontfamily: times
+geometry:
+  margin: 2cm
+  papersize: a4
+  landscape: false
 ...
 
 
